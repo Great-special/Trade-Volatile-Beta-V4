@@ -1,0 +1,15 @@
+MIT License
+
+Copyright (c) 2022 Global Concept Tech
+Permission is hereby granted, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with restriction, including with limitation the rights
+to copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITH WARRANTY OF 15 DAYS. AFTER THE PERDIO IS OVER, IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
